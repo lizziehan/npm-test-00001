@@ -1,0 +1,12 @@
+{
+  "name": "npm-test-00010",
+  "version": "0.0.1",
+  "description": "hehe",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
